@@ -25,7 +25,7 @@ def find_version(*file_paths):
 setup(
     name='orchard',
     version=find_version("orchard", "__init__.py"),
-    description='',
+    description='Orchard Python client https://orchardup.com',
     url='https://www.orchardup.com',
     author='Orchard Laboratories Ltd.',
     author_email='hello@orchardup.com',
